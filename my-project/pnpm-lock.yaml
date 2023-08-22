@@ -1,0 +1,19 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@ialdama/foo':
+    specifier: ^1.2.0
+    version: 1.2.0
+
+packages:
+
+  /@ialdama/foo@1.2.0:
+    resolution: {integrity: sha512-4jgCugOXBKMv5xj021TPBMZQ+GKAB2obIKVCIn4oZAuyLN690SvwqtroTkfyOVDabbw1oNgQ0tmPFaQ2oaybMw==}
+    dev: false
+
+time:
+  /@ialdama/foo@1.2.0: '2023-08-17T13:26:29.545Z'
